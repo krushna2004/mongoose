@@ -1,0 +1,50 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": " Lenovo [SmartChoice] IdeaPad Slim 3 ",
+        "price": 67000,
+        "ram": "16GB",
+        "image_url": "./images/1.png"
+        
+      },
+      {
+        "id": 2,
+        "name": "HP Envy x360",
+        "price": 86300,
+        "ram": "8GB",
+        "image_url": "./images/2.png",
+        
+      },
+      {
+        "id": 3,
+        "name": "MSI GF63 Thin",
+        "price": 80000,
+        "ram": "12GB",
+        "image_url": "./images/8.png"
+      },
+      {
+        "id": 4,
+        "name": "Acer Aspire 5 Gaming Laptop",
+        "price": 54990,
+        "ram": "32GB",
+        "image_url": "./images/5.png"
+        
+      },
+      {
+        "id": 5,
+        "name": "Hp Pavilion X360",
+        "price": 53990,
+        "ram": "16GB",
+        "image_url": "./images/7.png"
+      },
+      {
+        "id": 6,
+        "name": "JioBook 11 ",
+        "price": 16999,
+        "ram": "8GB",
+        "image_url": "./images/6.png"
+      }
+    ]
+  }
+  
